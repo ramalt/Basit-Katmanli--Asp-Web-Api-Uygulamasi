@@ -1,0 +1,9 @@
+C:\Dev\Cs\EmlakApp\EmlakApp.Entities\bin\Debug\netcoreapp3.1\EmlakApp.Entities.deps.json
+C:\Dev\Cs\EmlakApp\EmlakApp.Entities\bin\Debug\netcoreapp3.1\EmlakApp.Entities.dll
+C:\Dev\Cs\EmlakApp\EmlakApp.Entities\bin\Debug\netcoreapp3.1\EmlakApp.Entities.pdb
+C:\Dev\Cs\EmlakApp\EmlakApp.Entities\obj\Debug\netcoreapp3.1\EmlakApp.Entities.csprojAssemblyReference.cache
+C:\Dev\Cs\EmlakApp\EmlakApp.Entities\obj\Debug\netcoreapp3.1\EmlakApp.Entities.AssemblyInfoInputs.cache
+C:\Dev\Cs\EmlakApp\EmlakApp.Entities\obj\Debug\netcoreapp3.1\EmlakApp.Entities.AssemblyInfo.cs
+C:\Dev\Cs\EmlakApp\EmlakApp.Entities\obj\Debug\netcoreapp3.1\EmlakApp.Entities.csproj.CoreCompileInputs.cache
+C:\Dev\Cs\EmlakApp\EmlakApp.Entities\obj\Debug\netcoreapp3.1\EmlakApp.Entities.dll
+C:\Dev\Cs\EmlakApp\EmlakApp.Entities\obj\Debug\netcoreapp3.1\EmlakApp.Entities.pdb
