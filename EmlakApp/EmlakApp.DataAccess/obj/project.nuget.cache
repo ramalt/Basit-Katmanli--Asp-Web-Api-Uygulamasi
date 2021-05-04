@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3BowrclDgHjyh6bTR/Tn0mWx1l6yh0IaZNkBBejaRSgcLAVqd+QKgu99LCKZe5SXjcZ+78myDYwxKR8/VmMn6Q==",
+  "dgSpecHash": "/Lrkj8gbQCbF9Y+xroqgDAebQDJSN76cRgqJo3v7bzrlpeyl1eDWt3nK+ChJayYk6YPDGpunwZM/fZjG2vxw1Q==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Cs\\EmlakApp\\EmlakApp.DataAccess\\EmlakApp.DataAccess.csproj",
+  "projectFilePath": "C:\\Dev\\Cs\\Basit-Katmanl--Asp-Web-Api-Uygulamas--\\EmlakApp\\EmlakApp.DataAccess\\EmlakApp.DataAccess.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

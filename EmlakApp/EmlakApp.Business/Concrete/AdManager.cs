@@ -1,6 +1,5 @@
 ﻿using System.Collections.Generic;
 using EmlakApp.Business.Abstract;
-using EmlakApp.DataAccess;
 using EmlakApp.DataAccess.Abstract;
 using EmlakApp.DataAccess.Concrete;
 using EmlakApp.Entities;
@@ -9,7 +8,7 @@ namespace EmlakApp.Business.Concrete
 {
     public class AdManager : IAdService
     {
-        private readonly IRepository _repository;
+        private  IRepository _repository;
 
         public AdManager()
         {

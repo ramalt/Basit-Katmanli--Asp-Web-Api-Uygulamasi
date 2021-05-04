@@ -5818,11 +5818,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Dev\\Cs\\EmlakApp\\EmlakApp.DataAccess\\EmlakApp.DataAccess.csproj",
+      "projectUniqueName": "C:\\Dev\\Cs\\Basit-Katmanl--Asp-Web-Api-Uygulamas--\\EmlakApp\\EmlakApp.DataAccess\\EmlakApp.DataAccess.csproj",
       "projectName": "EmlakApp.DataAccess",
-      "projectPath": "C:\\Dev\\Cs\\EmlakApp\\EmlakApp.DataAccess\\EmlakApp.DataAccess.csproj",
+      "projectPath": "C:\\Dev\\Cs\\Basit-Katmanl--Asp-Web-Api-Uygulamas--\\EmlakApp\\EmlakApp.DataAccess\\EmlakApp.DataAccess.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
-      "outputPath": "C:\\Dev\\Cs\\EmlakApp\\EmlakApp.DataAccess\\obj\\",
+      "outputPath": "C:\\Dev\\Cs\\Basit-Katmanl--Asp-Web-Api-Uygulamas--\\EmlakApp\\EmlakApp.DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Dell\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -5839,8 +5839,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "C:\\Dev\\Cs\\EmlakApp\\EmlakApp.Entities\\EmlakApp.Entities.csproj": {
-              "projectPath": "C:\\Dev\\Cs\\EmlakApp\\EmlakApp.Entities\\EmlakApp.Entities.csproj"
+            "C:\\Dev\\Cs\\Basit-Katmanl--Asp-Web-Api-Uygulamas--\\EmlakApp\\EmlakApp.Entities\\EmlakApp.Entities.csproj": {
+              "projectPath": "C:\\Dev\\Cs\\Basit-Katmanl--Asp-Web-Api-Uygulamas--\\EmlakApp\\EmlakApp.Entities\\EmlakApp.Entities.csproj"
             }
           }
         }

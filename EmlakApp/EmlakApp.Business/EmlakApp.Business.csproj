@@ -6,7 +6,9 @@
 
   <ItemGroup>
     <ProjectReference Include="..\EmlakApp.DataAccess\EmlakApp.DataAccess.csproj" />
+
     <ProjectReference Include="..\EmlakApp.Entities\EmlakApp.Entities.csproj" />
+    
   </ItemGroup>
 
 </Project>

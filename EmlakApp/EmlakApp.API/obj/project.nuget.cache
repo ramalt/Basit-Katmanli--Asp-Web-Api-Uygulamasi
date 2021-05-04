@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VUSI+NQR8zT/igqh3rdqE6XLsM/qOdCouzTioPQN6lfilS2Wrf2FZUsTF/0Cwa9uUvbPNnCtsul3bi/MDjp+KQ==",
+  "dgSpecHash": "Iv9A4Hds3YGBnhRLCasyfoXbGaEChk61bMKVxUIpPYQdhbSEm4T1VKLxyDlup3InoL0euDDldmDenGrM+vGxUg==",
   "success": true,
-  "projectFilePath": "C:\\Dev\\Cs\\EmlakApp\\EmlakApp.API\\EmlakApp.API.csproj",
+  "projectFilePath": "C:\\Dev\\Cs\\Basit-Katmanl--Asp-Web-Api-Uygulamas--\\EmlakApp\\EmlakApp.API\\EmlakApp.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\Dell\\.nuget\\packages\\microsoft.data.sqlclient\\2.0.1\\microsoft.data.sqlclient.2.0.1.nupkg.sha512",

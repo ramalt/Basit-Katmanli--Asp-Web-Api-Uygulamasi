@@ -1,0 +1,14 @@
+C:\Dev\Cs\Basit-Katmanl--Asp-Web-Api-Uygulamas--\EmlakApp\EmlakApp.Business\obj\Debug\netcoreapp3.1\EmlakApp.Business.csprojAssemblyReference.cache
+C:\Dev\Cs\Basit-Katmanl--Asp-Web-Api-Uygulamas--\EmlakApp\EmlakApp.Business\obj\Debug\netcoreapp3.1\EmlakApp.Business.AssemblyInfoInputs.cache
+C:\Dev\Cs\Basit-Katmanl--Asp-Web-Api-Uygulamas--\EmlakApp\EmlakApp.Business\obj\Debug\netcoreapp3.1\EmlakApp.Business.AssemblyInfo.cs
+C:\Dev\Cs\Basit-Katmanl--Asp-Web-Api-Uygulamas--\EmlakApp\EmlakApp.Business\obj\Debug\netcoreapp3.1\EmlakApp.Business.csproj.CoreCompileInputs.cache
+C:\Dev\Cs\Basit-Katmanl--Asp-Web-Api-Uygulamas--\EmlakApp\EmlakApp.Business\bin\Debug\netcoreapp3.1\EmlakApp.Business.deps.json
+C:\Dev\Cs\Basit-Katmanl--Asp-Web-Api-Uygulamas--\EmlakApp\EmlakApp.Business\bin\Debug\netcoreapp3.1\EmlakApp.Business.dll
+C:\Dev\Cs\Basit-Katmanl--Asp-Web-Api-Uygulamas--\EmlakApp\EmlakApp.Business\bin\Debug\netcoreapp3.1\EmlakApp.Business.pdb
+C:\Dev\Cs\Basit-Katmanl--Asp-Web-Api-Uygulamas--\EmlakApp\EmlakApp.Business\bin\Debug\netcoreapp3.1\EmlakApp.DataAccess.dll
+C:\Dev\Cs\Basit-Katmanl--Asp-Web-Api-Uygulamas--\EmlakApp\EmlakApp.Business\bin\Debug\netcoreapp3.1\EmlakApp.Entities.dll
+C:\Dev\Cs\Basit-Katmanl--Asp-Web-Api-Uygulamas--\EmlakApp\EmlakApp.Business\bin\Debug\netcoreapp3.1\EmlakApp.DataAccess.pdb
+C:\Dev\Cs\Basit-Katmanl--Asp-Web-Api-Uygulamas--\EmlakApp\EmlakApp.Business\bin\Debug\netcoreapp3.1\EmlakApp.Entities.pdb
+C:\Dev\Cs\Basit-Katmanl--Asp-Web-Api-Uygulamas--\EmlakApp\EmlakApp.Business\obj\Debug\netcoreapp3.1\EmlakApp.Business.csproj.CopyComplete
+C:\Dev\Cs\Basit-Katmanl--Asp-Web-Api-Uygulamas--\EmlakApp\EmlakApp.Business\obj\Debug\netcoreapp3.1\EmlakApp.Business.dll
+C:\Dev\Cs\Basit-Katmanl--Asp-Web-Api-Uygulamas--\EmlakApp\EmlakApp.Business\obj\Debug\netcoreapp3.1\EmlakApp.Business.pdb

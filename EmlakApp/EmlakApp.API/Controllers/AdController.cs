@@ -3,7 +3,7 @@ using EmlakApp.Business.Abstract;
 using EmlakApp.Business.Concrete;
 using EmlakApp.Entities;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.Extensions.DependencyInjection;
+
 
 namespace EmlakApp.API.Controllers
 {
@@ -13,9 +13,9 @@ namespace EmlakApp.API.Controllers
     {
         private readonly IAdService _adService;
 
-        public AdController(IAdService adService)
+        public AdController()
         {
-            _adService = new AdManager() ;
+            _adService = new AdManager();
         }
         [HttpGet]
         public List<Ev> Get()
