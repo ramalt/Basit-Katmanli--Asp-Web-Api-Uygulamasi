@@ -1,3 +1,4 @@
+﻿using System;
 using System.Collections.Generic;
 using EmlakApp.Business.Abstract;
 using EmlakApp.Business.Concrete;
@@ -18,30 +19,60 @@ namespace EmlakApp.API.Controllers
             _adService = new AdManager();
         }
         [HttpGet]
-        public List<Ev> Get()
+        
+        public IActionResult Get()
         {
-            return _adService.GetAds();
+            var ads = _adService.GetAds();
+            return Ok(ads);
         }
         [HttpGet("{id}")]
-        public Ev Get(int id)
+        public IActionResult Get(int id)
         {
-            return _adService.GetAdById(id);
+            var ad = _adService.GetAdById(id);
+            if (ad!=null)
+            {
+                return Ok(ad);
+            }
+            else
+            {
+                return NotFound();
+            }
         }
         [HttpPost]
-        public Ev Post(Ev ev)
+        public IActionResult Post(Ev ev)
         {
-            return _adService.CreateAd(ev);
+            //null kontrolünü [apicontroller] attribute ü yapar. Eğer geçerli değilse ev nesnesindeki
+            //[required] attribute ü sayesinde işlem gerçekleşmez.
+            var postedAd = _adService.CreateAd(ev);
+            return Ok(postedAd);
+
         }
         [HttpPut]
-        public Ev Put(Ev ev)
+        public IActionResult Put(Ev ev)
         {
-            return _adService.UpdateAd(ev);
+            var updatedAd = _adService.UpdateAd(ev);
+            if (_adService.GetAdById(ev.Id)!=null)
+            {
+                return Ok(updatedAd);
+            }
+            else
+            {
+                return NotFound(updatedAd);
+            }
         }
 
         [HttpDelete]
-        public void Delete(int id)
+        public IActionResult Delete(int id)
         {
-            _adService.DeleteAd(id);
+            if (_adService.GetAdById(id)!=null)
+            {
+                _adService.DeleteAd(id);
+                return Ok();
+            }
+            else
+            {
+                return NotFound();
+            }
         }
     }
 }
